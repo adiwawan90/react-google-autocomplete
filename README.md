@@ -1,6 +1,6 @@
 # Screenshoot
 
-![alt text](public/video.gif)
+![](https://github.com/adiwawan90/react-google-autocomplete/blob/master/public/video.gif)
 
 # Getting Started with Create React App
 
